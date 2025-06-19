@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **I'm currently studying the art of life.**
 
-- 👨‍💻 All of my projects are available at [edopriyatna.vercel.app](edopriyatna.vercel.app)
-
 - 💬 Ask me about **React, Laravel, Next JS**
 
 - 📫 How to reach me **edopriyatna02@gmail.com**
 
-- 📄 Know about my experiences [edopriyatna.vercel.app/assets/EdoPriyatna-CV.pdf](edopriyatna.vercel.app/assets/EdoPriyatna-CV.pdf)
+- 📄 Know about my experiences: [View My CV](https://edopriyatna.vercel.app/assets/EdoPriyatna-CV.pdf)
 
 - ⚡ Fun fact **☕ Drinking coffee is way more enjoyable than coding. At least coffee doesn’t throw errors.**
 
