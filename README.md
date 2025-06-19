@@ -1,11 +1,7 @@
 <h1 align="center">Hi there, I'm Edo Priyatna 👋</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-###
 
 <p align="center">💻 Programmer | 📹 Content Creator | 🚀 Lifelong Learner</p>
-
-###
-
 
 - 🌱 I’m currently learning **I'm currently studying the art of life.**
 
