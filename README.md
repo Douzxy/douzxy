@@ -7,11 +7,14 @@
 
 - 💬 Ask me about **React, Laravel, Next JS**
 
+- 🌐 Check out my portfolio at: [edopriyatna.vercel.app](https://edopriyatna.vercel.app)
+
 - 📫 How to reach me **edopriyatna02@gmail.com**
 
 - 📄 Know about my experiences: [View My CV](https://edopriyatna.vercel.app/assets/EdoPriyatna-CV.pdf)
 
 - ⚡ Fun fact **☕ Drinking coffee is way more enjoyable than coding. At least coffee doesn’t throw errors.**
+
 
 
 
