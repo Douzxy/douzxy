@@ -36,6 +36,7 @@ Whether it's retouching a portrait or color grading a landscape, I apply the sam
 
 I'm always open to collaborating on Full-Stack projects or creative visual ventures.
 
+* **Website:** [edopriyatna.vercel.app](https://edopriyatna.vercel.app)
 * **Email:** [edopriyatna02@gmail.com](mailto:edopriyatna02@gmail.com)
 * **LinkedIn:** [linkedin.com/in/edopriyatna](https://www.linkedin.com/in/edopriyatna)
 * **Instagram:** [@edopriyatnaa](https://www.instagram.com/edopriyatnaa)
