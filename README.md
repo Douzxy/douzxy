@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banners/banner-header-dark.png">
-    <img alt="Edo Priyatna GitHub Banner Header" src="./banners/banner-header-light.png" />
-  </picture>
+  <img alt="Edo Priyatna GitHub Banner Header" src="./banners/banner-header-dark.png" width="100%" />
 </p>
 
 ### Hello, I'm Edo Priyatna 👋
@@ -26,10 +23,7 @@ Beyond the terminal, I am a visual storyteller. My background in **Digital Editi
 Whether it's retouching a portrait or color grading a landscape, I apply the same level of precision to my photos as I do to my code.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banners/banner-quotes-dark.png">
-    <img alt="Edo Priyatna Banner Quotes" src="./banners/banner-quotes-light.png">
-  </picture>
+  <img alt="Edo Priyatna Banner Quotes" src="./banners/banner-quotes-dark.png" width="100%" />
 </p>
 
 ### 😀 Get to Know Me
@@ -47,8 +41,5 @@ I'm always open to collaborating on Full-Stack projects or creative visual ventu
 * **Instagram:** [@edopriyatnaa](https://www.instagram.com/edopriyatnaa)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banners/banner-copyright-dark(2026).png">
-    <img alt="Edo Priyatna Banner Copyright" src="./banners/banner-copyright-light(2026).png" />
-  </picture>
+  <img alt="Edo Priyatna Banner Copyright" src="./banners/banner-copyright-dark(2026).png" width="100%" />
 </p>
